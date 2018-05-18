@@ -1,14 +1,4 @@
-# SFDX  App
+# Repro
 
-## Dev, Build and Test
-
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
-
+ sfdx force:package2:version:create -d force-app -i 0Ho46000000000kCAA -w 30
 
