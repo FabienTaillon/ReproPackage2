@@ -1,0 +1,21 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "id": "0Ho46000000000kCAA",
+      "versionName": "v 0.0.1",
+      "versionDescription": "v 0.0.1",
+      "versionNumber": "0.0.0.NEXT",
+      "dependencies": [
+        {
+          "packageId": "0Ho46000000000pCAA",
+          "versionNumber": "0.0.0.LATEST"
+        }
+      ]
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "42.0"
+}
